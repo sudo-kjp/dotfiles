@@ -1,3 +1,5 @@
-First Arch linux setup dotfiles
+First Arch linux setup dotfiles.
 
-Custom theme using wal and oomox
+Custom theme using wal and oomox.
+
+Still work in progress.
