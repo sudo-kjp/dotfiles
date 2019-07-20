@@ -20,6 +20,7 @@ exec 'spotify'
 exec atom
 exec firefox
 exec tilix
+exec conky -c ~/.config/conky/KJP-LSD-Conky/KJP.conkyrc
 
 #########################################
 #  Default always on programs                                              #
@@ -220,7 +221,7 @@ for_window [class="Spotify"] move to workspace $ws10
 # Colors, Design & Highlight                                                   #
 #########################################
 
-#highlight color (manually update with wal color for each new wallpaper, temp fix)
+#highlight color (manually update with wal color for each new wallpaper)
 # class  border  backgr. text    indicator   child_border
 #client.focused  #b8595e $b8595e #b8595e #b8595e     #b8595e
 client.focused  #91BC68 $91BC68 #91BC68 #91BC68  #91BC68
